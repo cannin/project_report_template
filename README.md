@@ -1,2 +1,10 @@
-# project_report_template
-Template for Project Reports
+# Template for Project Reports
+
+Review and edit 
+
+* _config.yml
+* contributors.csv 
+* index.md 
+* Example reports in `_reports`
+
+
