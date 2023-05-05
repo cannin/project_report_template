@@ -7,4 +7,6 @@ Review and edit
 * index.md 
 * Example reports in `_reports`
 
+# Template 
 
+https://github.com/cannin/project_report_template
