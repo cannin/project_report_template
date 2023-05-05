@@ -5,7 +5,7 @@ Review and edit
 * _config.yml
 * contributors.csv 
 * index.md 
-* Example reports in `_reports`
+* Example reports in _reports
 
 # Template 
 
