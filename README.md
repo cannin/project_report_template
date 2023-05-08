@@ -6,6 +6,7 @@ Review and edit
 * contributors.csv 
 * index.md 
 * Example reports in _reports
+* Edit this README with a short project description
 
 # Template Source
 
